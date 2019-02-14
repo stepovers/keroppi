@@ -13,13 +13,13 @@ Basically, keroppi keeps a record of my exploration in Machine Learning, NLP and
 
 Insurance QA from [https://github.com/shuzi/insuranceQA]. This data set is originally for supervised QA purpose. However, it is often difficult to get such well organized and labeled data in real business world.
 
-Reference: Applying Deep Learning to Answer Selection: A Study and An Open Task Minwei Feng, Bing Xiang, Michael R. Glass, Lidan Wang, Bowen Zhou ASRU 2015
+Reference: [Applying Deep Learning to Answer Selection: A Study and An Open Task Minwei Feng, Bing Xiang, Michael R. Glass, Lidan Wang, Bowen Zhou ASRU 2015]
 
 ### Practice
 
 Sales dialogue like telemarketing also contains many QA pairs. Thus, some explorations to understand successful sales dialogue has been done using unsupervised learning in NLP. Practice includes some demo models built using medical insurance QA pairs. 
 
-- Medical insurance QA questions clustering using bert as representation model
+- Medical insurance QA questions hirearachy clustering using bert as representation model
 - Medical insurance QA answers automatic summarization
 
 
