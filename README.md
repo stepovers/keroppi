@@ -65,6 +65,7 @@ Country code: [https://en.wikipedia.org/wiki/ISO_3166-1]
 ### Resource
 
 2017: HKUST X RADICA Big Datathon [http://www.radicasys.com/datathon2017/]
+
 2018: BINANCE SAFU PRE-HACKATHON - Hong Kong [https://safuhack.com/]
 
 ### Practice
