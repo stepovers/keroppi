@@ -59,3 +59,15 @@ Country code: [https://en.wikipedia.org/wiki/ISO_3166-1]
 
 - Interactive choropleth maps
 - Interactive sankey diagram
+
+## P6 - Hackathon
+
+### Resource
+
+2017: HKUST X RADICA Big Datathon [http://www.radicasys.com/datathon2017/]
+2018: BINANCE SAFU PRE-HACKATHON - Hong Kong [https://safuhack.com/]
+
+### Practice
+
+- Weibo KOLs' impact on Luxury brand [Radica Best Data Hunter: HK$20,000]
+- Blockchain address credit scoring using Node2Vec on trasaction data 
