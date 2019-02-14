@@ -34,7 +34,7 @@ Risk factors in health and disease from European Patients' Academy [https://www.
 
 ### Practice
 
-- Customer Lifetime Value for Medical Insurance
+- Customer lifetime value for medical insurance
 - Customer Risk Index
 
 ## P4 - Customer segmentation and persona
@@ -70,5 +70,5 @@ Country code: [https://en.wikipedia.org/wiki/ISO_3166-1]
 
 ### Practice
 
-- Weibo KOLs' impact on Luxury brand [Radica Best Data Hunter: HK$20,000]
+- Weibo KOLs' impact on luxury brand [Radica Best Data Hunter: HK$20,000]
 - Blockchain address credit scoring using Node2Vec on trasaction data 
