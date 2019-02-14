@@ -35,7 +35,7 @@ Risk factors in health and disease from European Patients' Academy [https://www.
 ### Practice
 
 - Customer lifetime value for medical insurance
-- Customer Risk Index
+- Customer risk index
 
 ## P4 - Customer segmentation and persona
 
