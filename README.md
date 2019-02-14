@@ -21,5 +21,24 @@ Sales dialogue like telemarketing also contains many QA pairs. Thus, some explor
 
 - Medical insurance QA questions hirearachy clustering using bert as representation model
 - Medical insurance QA answers automatic summarization
+- A simple Medical insurance QA chatbot
 
+## P2 - Customer Lifetime Value and Risk
 
+### Resource
+
+Risk factors in health and disease from European Patients' Academy
+[https://www.eupati.eu/pharmacoepidemiology/risk-factors-health-disease/]
+
+### Practice
+
+Customer Lifetime Value for Medical Insurance
+Customer Risk Index
+
+## P3 - Customer Segmentation and Persona
+
+### Resource
+
+### Practice
+A systematic way to do custoer segmentation
+Customer persona from sales dialogue
