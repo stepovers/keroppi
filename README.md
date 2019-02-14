@@ -1,7 +1,3 @@
-## Welcome to keroppi
-
-This repository is to keep a record of my thoughts and what I have done. 
-
 ## Introduction
 
 Basically, keroppi keeps a record of my exploration in Machine Learning, NLP and AI, and more specifically, some actionable practice in healthcare, marketing and insurance industry using open source data sets.
