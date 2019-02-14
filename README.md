@@ -19,7 +19,14 @@ Sales dialogue like telemarketing also contains many QA pairs. Thus, some explor
 - Medical insurance QA answers automatic summarization
 - A simple Medical insurance QA chatbot
 
-## P2 - Customer Lifetime Value and Risk
+
+## P2 - AutoML, build a demo model and pipeline
+
+### Resource
+
+### Practice
+
+## P3 - Customer Lifetime Value and Risk
 
 ### Resource
 
@@ -30,7 +37,7 @@ Risk factors in health and disease from European Patients' Academy [https://www.
 - Customer Lifetime Value for Medical Insurance
 - Customer Risk Index
 
-## P3 - Customer Segmentation and Persona
+## P4 - Customer Segmentation and Persona
 
 ### Resource
 
@@ -39,3 +46,15 @@ Risk factors in health and disease from European Patients' Academy [https://www.
 
 - A systematic way to do custoer segmentation
 - Customer persona from sales dialogue
+
+## P5 - Visulization, customer profiling
+
+### Resource
+
+US state code: [https://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code]
+Country code: [https://en.wikipedia.org/wiki/ISO_3166-1]
+
+### Practice
+
+- Interactive choropleth maps
+- Interactive sankey diagram
