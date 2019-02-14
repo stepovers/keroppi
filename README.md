@@ -32,13 +32,15 @@ Risk factors in health and disease from European Patients' Academy
 
 ### Practice
 
-Customer Lifetime Value for Medical Insurance
-Customer Risk Index
+- Customer Lifetime Value for Medical Insurance
+- Customer Risk Index
 
 ## P3 - Customer Segmentation and Persona
 
 ### Resource
 
+
 ### Practice
-A systematic way to do custoer segmentation
-Customer persona from sales dialogue
+
+- A systematic way to do custoer segmentation
+- Customer persona from sales dialogue
