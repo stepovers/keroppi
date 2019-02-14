@@ -1,6 +1,6 @@
 ## Welcome to keroppi
 
-This repository is to keep a record of my thoughts and what I have done in daily life and work. 
+This repository is to keep a record of my thoughts and what I have done. 
 
 ## Introduction
 
