@@ -2,7 +2,7 @@
 
 This repository is to keep a record of my thoughts and what I have done in daily life and work. 
 
-### Introduction
+## Introduction
 
 Basically, keroppi keeps a record of my exploration in Machine Learning, NLP and AI, and more specifically, some actionable practice in healthcare, marketing and insurance industry using open source data sets.
 
@@ -11,8 +11,7 @@ Basically, keroppi keeps a record of my exploration in Machine Learning, NLP and
 
 ### Data source
 
-Insurance QA from [https://github.com/shuzi/insuranceQA]
-This data set is originally for supervised QA purpose. However, it is often difficult to get such well organized and labeled data in real business world.
+Insurance QA from [https://github.com/shuzi/insuranceQA]. This data set is originally for supervised QA purpose. However, it is often difficult to get such well organized and labeled data in real business world.
 
 Reference: Applying Deep Learning to Answer Selection: A Study and An Open Task Minwei Feng, Bing Xiang, Michael R. Glass, Lidan Wang, Bowen Zhou ASRU 2015
 
