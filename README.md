@@ -13,7 +13,7 @@ Reference: [Applying Deep Learning to Answer Selection: A Study and An Open Task
 
 ### Practice
 
-Sales dialogue like telemarketing also contains many QA pairs. Thus, some explorations to understand successful sales dialogue has been done using unsupervised learning in NLP. Practice includes some demo models built using medical insurance QA pairs. 
+Sales dialogue such as telemarketing contains many QA pairs like insurance QA data. Thus, some explorations to understand successful sales dialogue can be done using unsupervised learning in NLP. Practice includes some demo models built using medical insurance QA pairs. 
 
 - Medical insurance QA questions hirearachy clustering using bert as representation model
 - Medical insurance QA answers automatic summarization
