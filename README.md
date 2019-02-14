@@ -26,7 +26,7 @@ Sales dialogue like telemarketing also contains many QA pairs. Thus, some explor
 
 ### Practice
 
-## P3 - Customer Lifetime Value and Risk
+## P3 - Customer lifetime value and risk index
 
 ### Resource
 
@@ -37,7 +37,7 @@ Risk factors in health and disease from European Patients' Academy [https://www.
 - Customer Lifetime Value for Medical Insurance
 - Customer Risk Index
 
-## P4 - Customer Segmentation and Persona
+## P4 - Customer segmentation and persona
 
 ### Resource
 
