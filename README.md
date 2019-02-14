@@ -27,8 +27,7 @@ Sales dialogue like telemarketing also contains many QA pairs. Thus, some explor
 
 ### Resource
 
-Risk factors in health and disease from European Patients' Academy
-[https://www.eupati.eu/pharmacoepidemiology/risk-factors-health-disease/]
+Risk factors in health and disease from European Patients' Academy [https://www.eupati.eu/pharmacoepidemiology/risk-factors-health-disease/]
 
 ### Practice
 
