@@ -52,6 +52,7 @@ Risk factors in health and disease from European Patients' Academy [https://www.
 ### Resource
 
 US state code: [https://en.wikipedia.org/wiki/Federal_Information_Processing_Standard_state_code]
+
 Country code: [https://en.wikipedia.org/wiki/ISO_3166-1]
 
 ### Practice
