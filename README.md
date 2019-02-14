@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to keroppi
 
-You can use the [editor on GitHub](https://github.com/stepovers/keroppi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is to keep a record of my thoughts and what I have done in daily life and work. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+Basically, keroppi keeps a record of my exploration in Machine Learning, NLP and AI, and more specifically, some actionable practice in healthcare, marketing and insurance industry using open source data sets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## P1 - NLP practice on Insurance QA corpus
 
-# Header 1
-## Header 2
-### Header 3
+### Data source
 
-- Bulleted
-- List
+Insurance QA from [github.com/shuzi/insuranceQA]
+This data set is originally for supervised QA purpose. However, it is often difficult to get such well organized and labeled data in real business world.
 
-1. Numbered
-2. List
+Reference: Applying Deep Learning to Answer Selection: A Study and An Open Task Minwei Feng, Bing Xiang, Michael R. Glass, Lidan Wang, Bowen Zhou ASRU 2015
 
-**Bold** and _Italic_ and `Code` text
+### Practice
 
-[Link](url) and ![Image](src)
-```
+Sales dialogue like telemarketing also contains many QA pairs. Thus, some explorations to understand successful sales dialogue has been done using unsupervised learning in NLP. Practice includes some demo models built using medical insurance QA pairs. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Medical insurance QA questions clustering using bert as representation model
+- Medical insurance QA answers automatic summarization
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stepovers/keroppi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
